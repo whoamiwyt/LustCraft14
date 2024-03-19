@@ -1,0 +1,16 @@
+ent-MobHuman = Урист МакЧеловек
+    .desc = { ent-BaseMobHuman.desc }
+ent-MobHumanSyndicateAgent = Агент синдиката
+    .desc = { ent-MobHuman.desc }
+	.suffix = Человек
+ent-MobHumanSyndicateAgentNukeops = { ent-MobHumanSyndicateAgent }
+    .suffix = Ядерный оперативник
+    .desc = { ent-MobHumanSyndicateAgent.desc }
+ent-MobHumanNukeOp = Ядерный оперативник
+    .desc = { ent-MobHuman.desc }
+ent-MobHumanLoneNuclearOperative = Одинокий оперативник
+    .desc = { ent-MobHuman.desc }
+ent-MobHumanScrambled = Перемешанный человек
+    .desc = { ent-MobHuman.desc }
+ent-MobHumanSpaceNinja = Космический ниндзя
+    .desc = { ent-MobHuman.desc }

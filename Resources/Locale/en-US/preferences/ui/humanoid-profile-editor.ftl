@@ -9,7 +9,7 @@ humanoid-profile-editor-sex-male-text = Male
 humanoid-profile-editor-sex-female-text = Female
 humanoid-profile-editor-sex-unsexed-text = None
 humanoid-profile-editor-age-label = Age:
-humanoid-profile-editor-skin-color-label = Skin color:
+humanoid-profile-editor-skin-color-label = Skin color
 humanoid-profile-editor-species-label = Species:
 humanoid-profile-editor-pronouns-label = Pronouns:
 humanoid-profile-editor-pronouns-male-text = He / Him
@@ -19,10 +19,10 @@ humanoid-profile-editor-pronouns-neuter-text = It / It
 humanoid-profile-editor-import-button = Import
 humanoid-profile-editor-export-button = Export
 humanoid-profile-editor-save-button = Save
-humanoid-profile-editor-clothing-label = Clothing:
-humanoid-profile-editor-backpack-label = Backpack:
-humanoid-profile-editor-spawn-priority-label = Spawn priority:
-humanoid-profile-editor-eyes-label = Eye color:
+humanoid-profile-editor-clothing-label = Clothing
+humanoid-profile-editor-backpack-label = Backpack
+humanoid-profile-editor-spawn-priority-label = Spawn priority
+humanoid-profile-editor-eyes-label = Eye color
 humanoid-profile-editor-jobs-tab = Jobs
 humanoid-profile-editor-preference-unavailable-stay-in-lobby-button = Stay in lobby if preference unavailable.
 humanoid-profile-editor-preference-unavailable-spawn-as-overflow-button = Be {INDEFINITE($overflowJob)} {$overflowJob} if preference unavailable.
@@ -51,3 +51,10 @@ humanoid-profile-editor-job-priority-never-button = Never
 humanoid-profile-editor-naming-rules-warning = Warning: Offensive or LRP IC names and descriptions will lead to admin intervention on this server. Read our \[Rules\] for more.
 humanoid-profile-editor-markings-tab = Markings
 humanoid-profile-editor-flavortext-tab = Description
+
+
+# TTS
+ui-options-tts-volume = [Unused] TTS Volume:
+credits-window-tts-title =[Unused] TTS (Text-To-Speech)
+humanoid-profile-editor-voice-label = [Unused] Voice:
+humanoid-profile-editor-voice-play = ▶

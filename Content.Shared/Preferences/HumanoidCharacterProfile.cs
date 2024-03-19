@@ -448,7 +448,7 @@ namespace Content.Shared.Preferences
 
             if (configManager.GetCVar(CCVars.RestrictedNames))
             {
-                name = Regex.Replace(name, @"[^А-Яа-яёЁ0-9' -]", string.Empty); // Corvax: Only cyrillic names
+                //name = Regex.Replace(name, @"[^А-Яа-яёЁ0-9' -]", string.Empty); // Character name symbols restriction
             }
 
             if (configManager.GetCVar(CCVars.ICNameCase))

@@ -147,9 +147,6 @@
             "name": "SecurityCadet"
         },
         {
-            "name": "IAA"
-        },
-        {
             "name": "Zombie"
         },
         {
@@ -185,6 +182,9 @@
         },
         {
             "name": "Visitor"
+        },
+        {
+            "name": "IAA"
         }
     ]
 }

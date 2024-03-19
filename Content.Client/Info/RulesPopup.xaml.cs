@@ -51,6 +51,7 @@ public sealed partial class RulesPopup : Control
         if (!AcceptButton.Disabled)
             return;
 
+        AcceptButton.Disabled = false;
         if (Timer > 0.0)
         {
             if (Timer - args.DeltaSeconds < 0)

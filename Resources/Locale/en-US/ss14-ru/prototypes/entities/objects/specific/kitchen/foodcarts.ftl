@@ -1,6 +1,6 @@
 ent-FoodCartBase = Food Cart
     .desc = A cart for food.
-ent-FoodCartHot = hot food cart
+ent-FoodCartHot = Hot Food Cart
     .desc = Get out there and slang some dogs.
-ent-FoodCartCold = cold food cart
+ent-FoodCartCold = Cold Food Cart
     .desc = It's the Ice Cream Man! It's the Ice Cream Man!
