@@ -1,2 +1,0 @@
-power-radiation-collector-gas-tank-missing = [color=darkred]Внешний контейнер плазмы отсутствует.[/color]
-power-radiation-collector-gas-tank-present = Внешний контейнер плазмы [color=darkgreen]подключен[/color].
