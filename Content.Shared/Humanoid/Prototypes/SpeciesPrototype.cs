@@ -100,7 +100,7 @@ public sealed partial class SpeciesPrototype : IPrototype
     public string MaleLastNames { get; private set; } = "names_last_male";
 
     [DataField]
-    public string FemaleLastNames { get; private set; } = "names_last_female";
+    public string FemaleLastNames { get; private set; } = "names_last_male";
     // Corvax-LastnameGender-End
 
     [DataField]
