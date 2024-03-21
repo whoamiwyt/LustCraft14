@@ -100,3 +100,5 @@ allowlocal = true
 # (the auth server being the one which manages Space Station 14 accounts), you change it here.
 # server = https://central.spacestation14.io/auth/
 
+[database]
+sqlite_dbpath = "C:/Users/Ad/Desktop/preferences.db"
