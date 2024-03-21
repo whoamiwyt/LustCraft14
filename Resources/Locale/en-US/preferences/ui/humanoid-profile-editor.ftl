@@ -51,3 +51,9 @@ humanoid-profile-editor-job-priority-never-button = Never
 humanoid-profile-editor-naming-rules-warning = Warning: Offensive or LRP IC names and descriptions will lead to admin intervention on this server. Read our \[Rules\] for more.
 humanoid-profile-editor-markings-tab = Markings
 humanoid-profile-editor-flavortext-tab = Description
+
+# Voice
+ui-options-tts-volume = [Not available] TTS Volume:
+credits-window-tts-title = [Not available] TTS (Text-To-Speech)
+humanoid-profile-editor-voice-label = [Not available] Voice:
+humanoid-profile-editor-voice-play = ▶
